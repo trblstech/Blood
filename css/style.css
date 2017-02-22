@@ -505,6 +505,9 @@ ul.cart-list > li.total > .btn:focus{
 .margin50{
     margin: 50px 0;
 }
+.margin30{
+    margin: 30px 0;
+}
 .search_for{
     padding: 18px;
     background-color: rgba(0,0,0,0.54);
@@ -923,4 +926,34 @@ footer
     background: #ED2024;
     color: #fff;
 }
+
+.date{
+    background: #000;
+    color: #fff;
+    text-align: center;
+    padding: 34px 0;
+    font-size: 18px;
+}
+.date p{
+    margin-bottom: 5px;
+}
+.rco-ui-event-card-info{
+    box-shadow: 0 0 4px rgba(0,0,0,0.3);
+    padding: 5px 15px;
+}
+.padding0{
+    padding: 0 !important;
+}
 /*baner End*/
+
+/*jumbotron Start*/
+
+.jumbotron{
+    background: url(../images/help/help7.jpg) no-repeat;
+    background-size: 100%;
+    padding: 70px 15px;
+}
+.jumbotron h2, .jumbotron h5{
+    color: #fff;
+}
+/*jumbotron End*/
