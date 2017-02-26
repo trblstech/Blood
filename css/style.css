@@ -795,7 +795,7 @@ footer
 }
 .custom_container{
     position: relative;
-    width: 1260px;
+    width: 1170px;
     margin: 0 auto;
     max-width: 1260px;
 }
@@ -957,3 +957,15 @@ footer
     color: #fff;
 }
 /*jumbotron End*/
+
+
+
+@media (max-width: 991px) {
+    .feature_img img{
+        margin: 0 auto;
+        width: 80%;
+        display: block;
+        height: auto;
+    }
+
+}
